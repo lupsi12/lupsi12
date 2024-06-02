@@ -40,6 +40,8 @@ I'm a Software Developer mostly working on the backend. I am developing projects
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" alt="react logo"  />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="14" />
   <img src="https://www.svgrepo.com/show/349342/docker.svg" height="30" alt="docker logo"  />
@@ -50,6 +52,8 @@ I'm a Software Developer mostly working on the backend. I am developing projects
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="14" />
+
+
 </div>
 
 ###
