@@ -1,4 +1,9 @@
-### Hello, it's Isil<img alt="Hello" width="25" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
+
+<h1 align="center">IŞIL KEFAL</h1>
+<h3 align="center">Software Developer</h3>
+### Hello, it's Işıl<img alt="Hello" width="25" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
+
+<h3 align="left">Connect With Me</h3>
 
 <a href="https://www.linkedin.com/in/isilkefal/">
   <img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27498814/109384021-3ff3d180-78fb-11eb-9000-421b983e407e.png" />
@@ -21,7 +26,7 @@
 </a>
 
 <br />
-
+<h3 align="left">About Me</h3>
 <br />
 
 I'm a Software Developer mostly working on the backend. I am developing projects with .NET Exploring is an exciting thing.
@@ -37,6 +42,8 @@ I'm a Software Developer mostly working on the backend. I am developing projects
 
 ###
 
+
+<h3 align="left">Languages and Tools</h3>
 ###
 
 <div align="left">
