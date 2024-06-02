@@ -1,6 +1,6 @@
 ###
 <h1 align="center">IŞIL KEFAL</h1>
-<h3 align="center">Software Developer</h3>
+
  Hello, it's Işıl<img alt="Hello" width="25" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" />
 
 <h3 align="left">Connect With Me</h3>
@@ -42,7 +42,7 @@ I'm a Software Developer mostly working on the backend. I am developing projects
 
 ###
 
-
+<br/>
 
 ###
 <h3 align="left">Languages and Tools</h3>
